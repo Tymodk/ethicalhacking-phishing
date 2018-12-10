@@ -9,3 +9,9 @@ Step 4 - Mail everyone and get results <br>
 <a src="https://www.dionach.com/blog/social-engineering-and-phishing-email-attacks">Social engineering and phishing!</a>
 # Fake EMAIL
 <a src="https://dylan.tweney.com/2017/10/25/how-to-fake-an-email-from-almost-anyone-in-under-5-minutes/">Blogpost about spoofing</a>
+
+
+
+
+# Steps undertaken
+Send a mail to the info section of my campus, asking them for a mailing list to use for an inquiry!
