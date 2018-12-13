@@ -18,3 +18,7 @@ Step 4 - Mail everyone and get results <br>
 Send a mail to the info section of my campus, asking them for a mailing list to use for an inquiry!
 Got a response, they can't send me the e-mails due to GDPR, damn!
 Created a near carbon copy of the desktop version of the login page, need to think about mobile version later down the line. 
+
+I've managed to succesfully spoof an e-mail! I can now send e-mails from 'Notifications@instructure.com'. Which is my school's notification service.
+I simply utilized Kali Linux, installed the SendEmail package and used the following string as the command.
+<pre>sendemail -f notifications@instructure.com -t tymo.dekock@student.kdg.be -m "Hello world" -s uit.telenet.be -u "Canvas notification"</pre>
