@@ -6,8 +6,11 @@ Step 3 - Make phishing website that looks like organizational login <br>
 Step 4 - Mail everyone and get results <br>
  
 # Social Engineering - Mailing list gathering
-<a href="https://tools.kali.org/information-gathering/theharvester">Kali tool - harvesting</a>
-<a href="https://www.dionach.com/blog/social-engineering-and-phishing-email-attacks">Social engineering and phishing!</a>
+<a href="https://tools.kali.org/information-gathering/theharvester">Kali tool - harvesting</a><br>
+<a href="https://www.dionach.com/blog/social-engineering-and-phishing-email-attacks">Social engineering and phishing!</a><br>
+<a href="https://github.com/mogaal/sendemail">Email sending tool for linux</a><br>
+<a href="https://github.com/laramies/theHarvester">The Harvester tool for Kali</a><br>
+<a href="https://null-byte.wonderhowto.com/how-to/scrape-target-email-addresses-with-theharvester-0176307/">Blogpost about The Harvester</a>
 # Fake EMAIL
 <a href="https://dylan.tweney.com/2017/10/25/how-to-fake-an-email-from-almost-anyone-in-under-5-minutes/">Blogpost about spoofing</a>
 
