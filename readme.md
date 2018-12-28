@@ -27,3 +27,4 @@ Step 4 - Mail everyone and get results <br>
 <p>Proceeding to learn how to make a email template for sendemail protocol in kali linux.</p>
 
 <p>Made a pretty convincing template in html. Time to start sending!</p>
+<p>Sending the spoofed e-mail to e-mail adresses I know, lets hope this works!</p>
