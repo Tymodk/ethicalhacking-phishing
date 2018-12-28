@@ -22,3 +22,7 @@ Created a near carbon copy of the desktop version of the login page, need to thi
 I've managed to succesfully spoof an e-mail! I can now send e-mails from 'Notifications@instructure.com'. Which is my school's notification service.
 I simply utilized Kali Linux, installed the SendEmail package and used the following string as the command.
 <pre>sendemail -f notifications@instructure.com -t tymo.dekock@student.kdg.be -m "Hello world" -s uit.telenet.be -u "Canvas notification"</pre>
+Send a mail to two of my teachers, one of them seems to be on vacation until the 7th, maybe I'll get a response of him after. Within these mails is a request for them to share a link to my malicious website to their student, disguised as a login to the school network. If they type in their e-mails they will be redirected to a form so they should think it's legit. 
+Made the website mobile friendly too.
+Proceeding to learn how to make a email template for sendemail protocol in kali linux.
+
