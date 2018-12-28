@@ -102,3 +102,31 @@ input {
 	font-family: "Segoe UI" , "Segoe" , "SegoeUI-Regular-final", Tahoma, Helvetica, Arial, sans-serif;
 
 }
+@media only screen and (max-width: 600px) {
+  .kdg{
+  	visibility: hidden;
+  	width: 0px;
+
+	max-width: 0px !important;
+
+	height: 0px;
+  }
+  #userNameInput,#passwordInput{
+	margin-left: 45px;
+	width: 100%;
+	max-width: 280px;
+	}
+.kdgheader{
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 1.8em;
+	}
+	.red{
+		padding-left: 30px;
+		padding-top: 0px;
+		margin-bottom: 0px;
+		padding-bottom: 0px;
+	}
+}

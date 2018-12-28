@@ -16,7 +16,10 @@ class fakeController extends Controller
     	$fakeuser = new Fakeuser;
     	$fakeuser['email'] = $username;
     	$fakeuser['password'] = $password;
-        if($username == "koen.heylen@kdg.be"){
+        if(strtolower($username) == "koen.heylen@kdg.be"){
+            return redirect('https://goo.gl/forms/jZvtsYpBCYzkejtW2');
+        }
+        if(strtolower($username) == "koen.soontjens@kdg.be"){
             return redirect('https://goo.gl/forms/jZvtsYpBCYzkejtW2');
         }
     	$fakeuser->save();
